@@ -26,11 +26,10 @@ public class SwitchCase {
             case 7:
                 System.out.println("Sunday");
                 break;
-
             default:
                 System.out.println("Invalid");
 
         }
-        int lar=Integer.MIN_VALUE;
+
     }
 }
