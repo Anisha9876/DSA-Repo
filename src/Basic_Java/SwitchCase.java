@@ -31,5 +31,6 @@ public class SwitchCase {
                 System.out.println("Invalid");
 
         }
+        int lar=Integer.MIN_VALUE;
     }
 }
