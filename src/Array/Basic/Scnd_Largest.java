@@ -1,4 +1,4 @@
-package Array;
+package Array.Basic;
 
 public class Scnd_Largest {
     public static void main(String[] args) {

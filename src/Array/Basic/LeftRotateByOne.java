@@ -1,4 +1,4 @@
-package Array;
+package Array.Basic;
 
 public class LeftRotateByOne {
     public static void main(String[] args) {

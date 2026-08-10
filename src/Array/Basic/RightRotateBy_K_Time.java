@@ -1,4 +1,4 @@
-package Array;
+package Array.Basic;
 
 public class RightRotateBy_K_Time {
     public static void main(String[] args) {

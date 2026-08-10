@@ -1,6 +1,4 @@
-package Array;
-
-import java.util.ArrayList;
+package Array.Basic;
 
 public class RotateBy_K_Time {
     public static void main(String[] args) {
