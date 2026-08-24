@@ -21,9 +21,9 @@ public class KadanesAlgoBrut {
 
          */
 
-        int[] nums={2,3,5,-2,7,-4};
+        int[] nums={-2, -3, -7, -2, -10, -4};
         int sum;
-        int maxSum=0;
+        int maxSum=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
             sum=0;
             for(int j=i;j<nums.length;j++){
