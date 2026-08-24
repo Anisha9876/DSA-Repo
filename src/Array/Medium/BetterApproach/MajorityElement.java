@@ -1,4 +1,4 @@
-package Array.Medium.BrutForce;
+package Array.Medium.BetterApproach;
 
 import java.util.HashMap;
 
