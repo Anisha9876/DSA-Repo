@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.Medium.BrutForce;
 
 public class TwoSum_Brut {
     public static void main(String[] args) {

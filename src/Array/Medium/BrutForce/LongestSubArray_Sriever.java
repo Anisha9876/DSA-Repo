@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.Medium.BrutForce;
 
 public class LongestSubArray_Sriever {
     public static void main(String[] args) {

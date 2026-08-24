@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.Medium.Optimized;
 
 import java.util.HashMap;
 
