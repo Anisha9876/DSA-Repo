@@ -5,7 +5,7 @@ public class Sorting_0s1s2s_Brut {
 
         int[] nums={0,0,1,2,1,2,0,1,0,0};
         //sorting
-        int left=0,right=0;
+
 //
 
         for(int i=0;i<nums.length-1;i++) {
