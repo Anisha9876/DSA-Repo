@@ -52,6 +52,7 @@ The next permutation of [1,2,3] is [1,3,2].
         }
         if(indx==-1){
             rev(nums);
+            return;
         }
         int next=Integer.MAX_VALUE;
         int nextIdx=-1;
